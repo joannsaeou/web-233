@@ -15,7 +15,8 @@
 ; Title: Function Properties
 ; Author: Pascal Pascarella
 ; Date: 08 December 2019
-; Description: This program .
+; Description: This program greets the user by first and
+; last name using JavaScript.
 ============================================================
 */
 
