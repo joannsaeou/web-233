@@ -10,7 +10,7 @@
   Expected Output:
 
 Pascal Pascarella
-Assignment 2.4: Functions
+Discussion Board 4.1 - Arrays
 Date: 12/19/2019
 
 
@@ -26,7 +26,7 @@ Revenge of the Sith,140,10%
 // Header
 const header = require('../pascarella-header.js'); // Links to header file
 
-console.log(header.display("Pascal","Pascarella","Assignment 2.4: Functions")); // Prints header
+console.log(header.display("Pascal","Pascarella","Discussion Board 4.1 - Arrays")); // Prints header
 console.log("\n") // Line break
 
 
