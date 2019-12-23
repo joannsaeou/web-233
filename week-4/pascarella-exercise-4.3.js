@@ -38,3 +38,5 @@ getValue(vehicles, "Motorcycle");
 
 console.log("\n -- SELECTED VALUE --");
 getValue(vehicles, "Bus");
+
+// Program end
