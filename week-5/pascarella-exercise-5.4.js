@@ -67,14 +67,14 @@ var composersGenre = composers.map(function(composer){
 });
 
 // Output
-console.log("--COMPOSER BY RATING--");
-composersRating.forEach(comp =>{
+console.log("--COMPOSER BY RATING--"); // Simple array title
+composersRating.forEach(comp =>{ // If comp value is greater in sequence than previous, display
   var printString = RATING + comp.rating + NEWLINE + COMPOSER + comp.lastName + NEWLINE.repeat(2);
   console.log(printString);
 });
 
-console.log("--COMPOSER BY GENRE--");
-composersGenre.forEach(comp =>{
+console.log("--COMPOSER BY GENRE--"); // Simple array title
+composersGenre.forEach(comp =>{ // If comp value is greater in sequence than previous, display
   var printString = GENRE + comp.genre + NEWLINE + COMPOSER + comp.lastName + NEWLINE.repeat(2);
   console.log(printString);
 });
