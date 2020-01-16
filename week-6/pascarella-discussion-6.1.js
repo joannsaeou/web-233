@@ -1,10 +1,10 @@
 /*
-============================================================
-; Title: Exercise 4.2 - Arrays
+================================================================
+; Title: Discussion Board 6.1 - Objects and Built-In Objects
 ; Author: Pascal Pascarella
 ; Date: 16 January 2020
 ; Description: This program displays an error-filled object list.
-============================================================
+=================================================================
 */
 
 // Header
